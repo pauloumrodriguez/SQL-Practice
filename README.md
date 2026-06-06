@@ -6,4 +6,4 @@ These are scripts that answer questions from [DataLemur](https://datalemur.com/)
 
 | Question | Answer |
 | :--- | :--- |
-| [Histogram of Tweets](https://datalemur.com/questions/histogram-of-tweets) | [Solution](./DataLemur/histogram_of_tweets.sql) |
+| [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets) | [Solution](./DataLemur/histogram_of_tweets.sql) |
