@@ -5,4 +5,5 @@ FROM posts
 WHERE post_date >= '2021-01-01'
   AND post_date < '2022-01-01'
 GROUP BY user_id
-HAVING COUNT(post_id) > 1;
+HAVING COUNT(*) >= 2
+ORDER BY user_id;
