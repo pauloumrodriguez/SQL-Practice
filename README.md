@@ -13,3 +13,4 @@ These are scripts that answer questions from DataLemur. Links to questions and m
 | [Average Post Hiatus (Part 1)](https://datalemur.com/questions/sql-average-post-hiatus-1) | [Solution](./DataLemur/average_post_hiatus.sql) |
 | [Teams Power Users](https://datalemur.com/questions/teams-power-users) | [Solution](./DataLemur/teams_power_users.sql) |
 | [Coin Fairness Test](https://datalemur.com/questions/coin-fairness-test) | [Solution](./DataLemur/coin_fairness_test.md) |
+| [Duplicate Job Listings](https://datalemur.com/questions/duplicate-job-listings) | [Solution](./DataLemur/duplicate_job_listings.sql) |
