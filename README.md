@@ -14,3 +14,4 @@ These are scripts that answer questions from DataLemur. Links to questions and m
 | [Teams Power Users](https://datalemur.com/questions/teams-power-users) | [Solution](./DataLemur/teams_power_users.sql) |
 | [Coin Fairness Test](https://datalemur.com/questions/coin-fairness-test) | [Solution](./DataLemur/coin_fairness_test.md) |
 | [Duplicate Job Listings](https://datalemur.com/questions/duplicate-job-listings) | [Solution](./DataLemur/duplicate_job_listings.sql) |
+| [Cities With Completed Trades](https://datalemur.com/questions/completed-trades) | [Solution](./DataLemur/completed_trades.sql) |
