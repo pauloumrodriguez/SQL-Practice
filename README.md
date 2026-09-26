@@ -15,3 +15,4 @@ These are scripts that answer questions from DataLemur. Links to questions and m
 | [Coin Fairness Test](https://datalemur.com/questions/coin-fairness-test) | [Solution](./DataLemur/coin_fairness_test.md) |
 | [Duplicate Job Listings](https://datalemur.com/questions/duplicate-job-listings) | [Solution](./DataLemur/duplicate_job_listings.sql) |
 | [Cities With Completed Trades](https://datalemur.com/questions/completed-trades) | [Solution](./DataLemur/completed_trades.sql) |
+| [Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes) | [Solution](./DataLemur/page_with_no_likes.sql) |
