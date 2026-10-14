@@ -16,3 +16,4 @@ These are scripts that answer questions from DataLemur. Links to questions and m
 | [Cities With Completed Trades](https://datalemur.com/questions/completed-trades) | [Solution](./DataLemur/completed_trades.sql) |
 | [Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes) | [Solution](./DataLemur/page_with_no_likes.sql) |
 | [Average Review Ratings](https://datalemur.com/questions/sql-avg-review-ratings) | [Solution](./DataLemur/average_review_ratings.sql) |
+| [Well Paid Employees](https://datalemur.com/questions/sql-well-paid-employees) | [Solution](./DataLemur/well_paid_employees.sql) |
