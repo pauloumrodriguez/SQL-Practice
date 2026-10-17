@@ -17,3 +17,4 @@ These are scripts that answer questions from DataLemur. Links to questions and m
 | [Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes) | [Solution](./DataLemur/page_with_no_likes.sql) |
 | [Average Review Ratings](https://datalemur.com/questions/sql-avg-review-ratings) | [Solution](./DataLemur/average_review_ratings.sql) |
 | [Well Paid Employees](https://datalemur.com/questions/sql-well-paid-employees) | [Solution](./DataLemur/well_paid_employees.sql) |
+| [Final Account Balance](https://datalemur.com/questions/final-account-balance) | [Solution](./DataLemur/final_account_balance.sql) |
