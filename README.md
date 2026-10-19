@@ -18,3 +18,4 @@ These are scripts that answer questions from DataLemur. Links to questions and m
 | [Average Review Ratings](https://datalemur.com/questions/sql-avg-review-ratings) | [Solution](./DataLemur/average_review_ratings.sql) |
 | [Well Paid Employees](https://datalemur.com/questions/sql-well-paid-employees) | [Solution](./DataLemur/well_paid_employees.sql) |
 | [Final Account Balance](https://datalemur.com/questions/final-account-balance) | [Solution](./DataLemur/final_account_balance.sql) |
+| [App Click-through Rate (CTR)](https://datalemur.com/questions/click-through-rate) | [Solution](./DataLemur/click_through_rate.sql) |
