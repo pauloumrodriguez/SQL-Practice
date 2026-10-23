@@ -20,3 +20,4 @@ These are scripts that answer questions from DataLemur. Links to questions and m
 | [Final Account Balance](https://datalemur.com/questions/final-account-balance) | [Solution](./DataLemur/final_account_balance.sql) |
 | [App Click-through Rate (CTR)](https://datalemur.com/questions/click-through-rate) | [Solution](./DataLemur/click_through_rate.sql) |
 | [Second Day Confirmation](https://datalemur.com/questions/second-day-confirmation) | [Solution](./DataLemur/second_day_confirmation.sql) |
+| [IBM Db2 Product Analytics](https://datalemur.com/questions/sql-ibm-db2-product-analytics) | [Solution](./DataLemur/ibm_db2_product_analytics.sql) |
