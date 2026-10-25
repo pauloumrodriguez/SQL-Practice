@@ -21,3 +21,4 @@ These are scripts that answer questions from DataLemur. Links to questions and m
 | [App Click-through Rate (CTR)](https://datalemur.com/questions/click-through-rate) | [Solution](./DataLemur/click_through_rate.sql) |
 | [Second Day Confirmation](https://datalemur.com/questions/second-day-confirmation) | [Solution](./DataLemur/second_day_confirmation.sql) |
 | [IBM Db2 Product Analytics](https://datalemur.com/questions/sql-ibm-db2-product-analytics) | [Solution](./DataLemur/ibm_db2_product_analytics.sql) |
+| [Cards Issued Difference](https://datalemur.com/questions/cards-issued-difference) | [Solution](./DataLemur/cards_issued_difference.sql) |
