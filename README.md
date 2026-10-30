@@ -24,3 +24,4 @@ These are scripts that answer questions from DataLemur. Links to questions and m
 | [Cards Issued Difference](https://datalemur.com/questions/cards-issued-difference)         | [Solution](./DataLemur/cards_issued_difference.sql)   |
 | [Compressed Mean](https://datalemur.com/questions/alibaba-compressed-mean)                 | [Solution](./DataLemur/compressed_mean.sql)           |
 | [Pharmacy Analytics (Part 1)](https://datalemur.com/questions/top-profitable-drugs)         | [Solution](./DataLemur/top_profitable_drugs.sql)      |
+| [Pharmacy Analytics (Part 2)](https://datalemur.com/questions/non-profitable-drugs)         | [Solution](./DataLemur/non_profitable_drugs.sql)      |
