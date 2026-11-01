@@ -25,3 +25,4 @@ These are scripts that answer questions from DataLemur. Links to questions and m
 | [Compressed Mean](https://datalemur.com/questions/alibaba-compressed-mean)                 | [Solution](./DataLemur/compressed_mean.sql)           |
 | [Pharmacy Analytics (Part 1)](https://datalemur.com/questions/top-profitable-drugs)         | [Solution](./DataLemur/top_profitable_drugs.sql)      |
 | [Pharmacy Analytics (Part 2)](https://datalemur.com/questions/non-profitable-drugs)         | [Solution](./DataLemur/non_profitable_drugs.sql)      |
+| [Pharmacy Analytics (Part 3)](https://datalemur.com/questions/total-drugs-sales)            | [Solution](./DataLemur/total_drugs_sales.sql)         |
