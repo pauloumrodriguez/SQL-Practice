@@ -27,3 +27,4 @@ These are scripts that answer questions from DataLemur. Links to questions and m
 | [Pharmacy Analytics (Part 2)](https://datalemur.com/questions/non-profitable-drugs)         | [Solution](./DataLemur/non_profitable_drugs.sql)      |
 | [Pharmacy Analytics (Part 3)](https://datalemur.com/questions/total-drugs-sales)            | [Solution](./DataLemur/total_drugs_sales.sql)         |
 | [Patient Support Analysis (Part 1)](https://datalemur.com/questions/frequent-callers)       | [Solution](./DataLemur/frequent_callers.sql)          |
+| [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction)          | [Solution](./DataLemur/users_third_transaction.sql)   |
