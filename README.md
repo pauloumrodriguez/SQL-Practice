@@ -29,3 +29,4 @@ These are scripts that answer questions from DataLemur. Links to questions and m
 | [Patient Support Analysis (Part 1)](https://datalemur.com/questions/frequent-callers)       | [Solution](./DataLemur/frequent_callers.sql)          |
 | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction)          | [Solution](./DataLemur/users_third_transaction.sql)   |
 | [Second Highest Salary](https://datalemur.com/questions/sql-second-highest-salary)         | [Solution](./DataLemur/second_highest_salary.sql)     |
+| [Sending vs. Opening Snaps](https://datalemur.com/questions/time-spent-snaps)              | [Solution](./DataLemur/time_spent_snaps.sql)          |
