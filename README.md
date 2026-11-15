@@ -32,3 +32,5 @@ These are scripts that answer questions from DataLemur. Links to questions and m
 | [Sending vs. Opening Snaps](https://datalemur.com/questions/time-spent-snaps)              | [Solution](./DataLemur/time_spent_snaps.sql)          |
 | [Tweets' Rolling Averages](https://datalemur.com/questions/rolling-average-tweets)         | [Solution](./DataLemur/rolling_average_tweets.sql)    |
 | [Highest-Grossing Items](https://datalemur.com/questions/sql-highest-grossing)            | [Solution](./DataLemur/highest_grossing_items.sql)    |
+| [Top Three Salaries](https://datalemur.com/questions/sql-top-three-salaries)              | [Solution](./DataLemur/top_three_salaries.sql)        |
+| [Signup Activation Rate](https://datalemur.com/questions/signup-confirmation-rate)        | [Solution](./DataLemur/signup_confirmation_rate.sql)  |
