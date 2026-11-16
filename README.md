@@ -37,3 +37,4 @@ These are scripts that answer questions from DataLemur. Links to questions and m
 | [Spotify Streaming History](https://datalemur.com/questions/spotify-streaming-history)    | [Solution](./DataLemur/spotify_streaming_history.sql) |
 | [Supercloud Customer](https://datalemur.com/questions/supercloud-customer)                | [Solution](./DataLemur/supercloud_customer.sql)       |
 | [Odd and Even Measurements](https://datalemur.com/questions/odd-even-measurements)        | [Solution](./DataLemur/odd_even_measurements.sql)     |
+| [Swapped Food Delivery](https://datalemur.com/questions/sql-swapped-food-delivery)        | [Solution](./DataLemur/swapped_food_delivery.sql)     |
