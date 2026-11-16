@@ -34,3 +34,5 @@ These are scripts that answer questions from DataLemur. Links to questions and m
 | [Highest-Grossing Items](https://datalemur.com/questions/sql-highest-grossing)            | [Solution](./DataLemur/highest_grossing_items.sql)    |
 | [Top Three Salaries](https://datalemur.com/questions/sql-top-three-salaries)              | [Solution](./DataLemur/top_three_salaries.sql)        |
 | [Signup Activation Rate](https://datalemur.com/questions/signup-confirmation-rate)        | [Solution](./DataLemur/signup_confirmation_rate.sql)  |
+| [Spotify Streaming History](https://datalemur.com/questions/spotify-streaming-history)    | [Solution](./DataLemur/spotify_streaming_history.sql) |
+| [Supercloud Customer](https://datalemur.com/questions/supercloud-customer)                | [Solution](./DataLemur/supercloud_customer.sql)       |
