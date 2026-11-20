@@ -40,3 +40,4 @@ These are scripts that answer questions from DataLemur. Links to questions and m
 | [Swapped Food Delivery](https://datalemur.com/questions/sql-swapped-food-delivery)        | [Solution](./DataLemur/swapped_food_delivery.sql)     |
 | [FAANG Stock Min-Max (Part 1)](https://datalemur.com/questions/sql-bloomberg-stock-min-max-1) | [Solution](./DataLemur/faang_stock_min_max.sql)    |
 | [Best-Selling Product](https://datalemur.com/questions/best-selling-products)            | [Solution](./DataLemur/best_selling_product.sql)      |
+| [User Shopping Sprees](https://datalemur.com/questions/amazon-shopping-spree)          | [Solution](./DataLemur/user_shopping_sprees.sql)      |
