@@ -42,3 +42,4 @@ These are scripts that answer questions from DataLemur. Links to questions and m
 | [Best-Selling Product](https://datalemur.com/questions/best-selling-products)            | [Solution](./DataLemur/best_selling_product.sql)      |
 | [User Shopping Sprees](https://datalemur.com/questions/amazon-shopping-spree)          | [Solution](./DataLemur/user_shopping_sprees.sql)      |
 | [Histogram of Users and Purchases](https://datalemur.com/questions/histogram-users-purchases) | [Solution](./DataLemur/histogram_users_purchases.sql) |
+| [Compressed Mode](https://datalemur.com/questions/alibaba-compressed-mode)                 | [Solution](./DataLemur/compressed_mode.sql)           |
