@@ -44,3 +44,4 @@ These are scripts that answer questions from DataLemur. Links to questions and m
 | [Histogram of Users and Purchases](https://datalemur.com/questions/histogram-users-purchases) | [Solution](./DataLemur/histogram_users_purchases.sql) |
 | [Compressed Mode](https://datalemur.com/questions/alibaba-compressed-mode)                 | [Solution](./DataLemur/compressed_mode.sql)           |
 | [Card Launch Success](https://datalemur.com/questions/card-launch-success)             | [Solution](./DataLemur/card_launch_success.sql)       |
+| [International Call Percentage](https://datalemur.com/questions/international-call-percentage) | [Solution](./DataLemur/international_call_percentage.sql) |
