@@ -46,3 +46,4 @@ These are scripts that answer questions from DataLemur. Links to questions and m
 | [Card Launch Success](https://datalemur.com/questions/card-launch-success)             | [Solution](./DataLemur/card_launch_success.sql)       |
 | [International Call Percentage](https://datalemur.com/questions/international-call-percentage) | [Solution](./DataLemur/international_call_percentage.sql) |
 | [Patient Support Analysis (Part 2)](https://datalemur.com/questions/uncategorized-calls-percentage) | [Solution](./DataLemur/uncategorized_calls_percentage.sql) |
+| [Active User Retention](https://datalemur.com/questions/user-retention)                  | [Solution](./DataLemur/user_retention.sql)            |
